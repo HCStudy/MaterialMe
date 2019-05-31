@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_10cee7b9828796ef2b51a6e07e2c8f3545d7349f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_9caa5e37c10c4c0c5e3f5bd6ed5c1ee3e92b6868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_dd77ad3da27a864616c58c6fc453a0682be6365a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_95b6925565f4af38e0d2bac68948007d9481115f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/glide-3.5.2_b4998f39a2e0cfce485e4332870e25970bc60dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_7be0a5a2304390dc30f08272da72d70c36016ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_11ac8c73d9f04b948ad2366792f9c7935cebe376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_cd0fa812908a51c12332c7b3089c40e1e5831bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.0_5e05ad53d9d50237e60ffdbb3184405e8a2ddc2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_386e7725dd7605e68852825297fbbbd94c0a2536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cb010e85370e8ea576dab1a78c04bb2626e470a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_1f8a6e3a6b8f1038e32837b816862aebef135cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_25d7bb2f747a7f2d30925e5ff8a2471e0d22f06a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_51979917732d1ed66f9b25bb166c88d4a129b319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_40c9fd96285332d5d6e8191acfa46450a9e737ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d58891a51d47a3c9aa87a528a0af0dc592a358d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_3b65d80a9821cde7f2e66adf8eee8a54619577b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_f0d426b8d1fe0dfa5bcb76668cb42f785dd1944c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/hongchengliang/AndroidStudioProjects/MaterialMe/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_08390cd72a53364133305dbe41abb9366c634ec7.jar" />
+    </item>
+
+</items>
